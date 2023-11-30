@@ -64,7 +64,7 @@ const addResultsContainer = (todaysData, tomorrowsData) => {
                     <p class="date">${todayFormateDate}</p>
                     <h5 class="day-type-heading">Sunrise</h5>
                     <img
-                      src="./images//download (5).png"
+                      src="./images/download (5).png"
                       alt="sunImage"
                       class="sun-image"
                     />
@@ -91,7 +91,7 @@ const addResultsContainer = (todaysData, tomorrowsData) => {
                     <p class="date">${tomorrowFormatDate}</p>
                     <h5 class="day-type-heading">Sunrise</h5>
                     <img
-                      src="./images//download (5).png"
+                      src="./images/download (5).png"
                       alt="sunImage"
                       class="sun-image"
                     />
@@ -124,7 +124,7 @@ const addResultsContainer = (todaysData, tomorrowsData) => {
                     <p class="date">${todayFormateDate}</p>
                     <h5 class="day-type-heading">Sunset</h5>
                     <img
-                      src="./images//download (4).jpg"
+                      src="./images/download (4).jpg"
                       alt="sunImage"
                       class="sun-image"
                     />
@@ -153,7 +153,7 @@ const addResultsContainer = (todaysData, tomorrowsData) => {
                     <p class="date">${tomorrowFormatDate}</p>
                     <h5 class="day-type-heading">Sunset</h5>
                     <img
-                      src="./images//download (4).jpg"
+                      src="./images/download (4).jpg"
                       alt="sunImage"
                       class="sun-image"
                     />
